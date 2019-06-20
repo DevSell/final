@@ -1,4 +1,4 @@
 git pull
 git add .
-git commit -m "commentaire"
+git commit -m "Mis à jour"
 git push
