@@ -1,0 +1,49 @@
+
+uCARD HTML TEMPLATE  - CHANGE LOG
+
+
+
+v1.2 - 9 Nov 2017
+
+- added : image logo support
+- added : custom url support to home boxes (remove data-slug attribute)
+- fixed : portfolio filters reset after closing portfolio ajax post
+
+changed files 
+- js/main.js
+- css/main.css
+
+-----
+
+v1.1.1 - 1 Sept 2016
+
+- fixed : readability issue on mobile
+- fixed : z-index issue on portfolio ajax pages
+- added : api key support for google map
+- moved : css modules to shortcode.css
+
+changed files 
+- css/main.css
+- css/layout.css
+- css/shortcode.css (new)
+
+v1.1 - 17.06.2016
+
+- fixed : home section scrolling issue on iphone
+- fixed : home boxes vertical gap issue
+- fixed : body is scrollable when the folding panel is active - issue
+- removed : instagram widget from sidebar deu to the instagram disabled api v1
+
+changed files :
+	- css/layout.css
+	- css/main.css
+	- css/768.css
+	- js/main.js
+	- deleted : js/smoothscroll.js - removed from scripts at the end of the body
+	- deleted : js/socialstream.jquery.js - removed from scripts at the end of the body
+	- social icons markup changed
+	
+-----
+
+v1.0 - 15.05.2016
+- initial release

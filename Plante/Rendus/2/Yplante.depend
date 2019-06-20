@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1559643514 source:c:\users\hadil\desktop\nouveau dossier\yplante\colors.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"colors.h"
+
+1559643488 source:c:\users\hadil\desktop\nouveau dossier\yplante\credits.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"colors.h"
+	"welcome.h"
+	"plante.h"
+	"credits.h"
+
+1559643379 c:\users\hadil\desktop\nouveau dossier\yplante\colors.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"colors.h"
+
+1559639693 c:\users\hadil\desktop\nouveau dossier\yplante\welcome.h
+
+1559639415 c:\users\hadil\desktop\nouveau dossier\yplante\plante.h
+
+1559639555 c:\users\hadil\desktop\nouveau dossier\yplante\credits.h
+
+1561035524 source:c:\users\hadil\desktop\nouveau dossier\yplante\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<winsock.h>
+	<windows.h>
+	"colors.h"
+	"welcome.h"
+	"credits.h"
+
+1559640110 c:\users\hadil\desktop\nouveau dossier\yplante\colors.h
+
+1559651778 source:c:\users\hadil\desktop\nouveau dossier\yplante\epiaire.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"epiaire.h"
+	"colors.h"
+	"plante.h"
+
+1559640208 c:\users\hadil\desktop\nouveau dossier\yplante\epiaire.h
+
+1559652230 source:c:\users\hadil\desktop\nouveau dossier\yplante\treflesr.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"treflesr.h"
+	"plante.h"
+	"colors.h"
+
+1559640261 c:\users\hadil\desktop\nouveau dossier\yplante\treflesr.h
+
+1559657533 source:c:\users\hadil\desktop\nouveau dossier\yplante\plante.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"colors.h"
+	"Violette.h"
+	"Treflesr.h"
+	"Epiaire.h"
+	"Stipe.h"
+
+1559639345 c:\users\hadil\desktop\nouveau dossier\yplante\violette.h
+
+1559652222 source:c:\users\hadil\desktop\nouveau dossier\yplante\violette.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"Violette.h"
+	"colors.h"
+	"plante.h"
+
+1559642971 source:c:\users\hadil\desktop\nouveau dossier\yplante\welcome.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<windows.h>
+	"colors.h"
+	"welcome.h"
+	"plante.h"
+	"credits.h"
+
+1559652705 c:\users\hadil\desktop\nouveau dossier\yplante\stipe.h
+

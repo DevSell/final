@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Yplante" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Yplante" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="C:/Users/hadil/Desktop/Nouveau dossier/Yplante/api_mysql/libmysqlclient.a" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Yplante" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Epiaire.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Epiaire.h" />
+		<Unit filename="Stipe.h" />
+		<Unit filename="Treflesr.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Treflesr.h" />
+		<Unit filename="Violette.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Violette.h" />
+		<Unit filename="colors.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="colors.h" />
+		<Unit filename="credits.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="credits.h" />
+		<Unit filename="header.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="plante.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="plante.h" />
+		<Unit filename="welcome.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="welcome.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
